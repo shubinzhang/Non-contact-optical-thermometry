@@ -1,9 +1,8 @@
 # **Non-contact opitcal thermometries for emissive semiconductor material**
-Python programs designed for controling multiple instruments to automatically measure the temperature of semiconductor material using optical approaches. This repository includes two 
-appraoches for materials with different optical properties.
+Python programs designed for controling multiple instruments to automatically measure the temperature of semiconductor material using optical approaches. This repository includes two appraoches for materials with different optical properties. Both appraoches have high spatical resolution (sub um) and high temperature sensitivity (sub K). 
 
 ## 1. Pump-probe luminescence thermometry (PPLT):
-
+This appraoch is mainly based on temperature dependent emission spectrum.This approach is widely used for measuring temperature change during solid phase optical refrigeration. More theory and technical detail can be found in https://aip.scitation.org/doi/abs/10.1063/1.4811759. 
 
 #### 2. Creating a db file that contains two tables: "school" and "people_scopus".
 * "school" table includes school rank, school name, affilation id  and searching status.
