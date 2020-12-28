@@ -12,7 +12,7 @@ This appraoch is based on temperature dependent bandedge emission. It is relativ
 ### 2. Up-conversion thermometry ("Up-conversion thermometry.py"):
 This apporach is based on temperature dependent up-conversion efficiency. It's designed for semiconductors with alomst temperature independent bandedge (e.g. CsPbBr3 Nanocrystal). It's a complementary appraoch for PPLT. More theory and technical details can be found in https://www.sciencedirect.com/science/article/abs/pii/S0022231319322847?via%3Dihub
 
-#### Instrument list:
+#### Instrument list and corresponding libaray:
 * Acton sp-2300i spectrometer: "acton.py"
 * NKT Supercontinuum SuperK Extreme: "fianium.py"
 * Andor Ixon CCD camera: "andor_camera.py"
