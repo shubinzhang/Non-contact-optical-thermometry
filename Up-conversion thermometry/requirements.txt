@@ -1,0 +1,6 @@
+matplotlib==1.5.1
+numpy==1.14.2
+PyDAQmx==1.4.1
+PyQt4==4.11.4
+pyserial==3.4
+pyqtgraph==0.10.0
