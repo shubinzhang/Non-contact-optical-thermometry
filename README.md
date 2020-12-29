@@ -37,8 +37,5 @@ This apporach is based on temperature dependent up-conversion efficiency. It's d
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## **Contact**
-
-Shubin Zhang - szhang14@nd.edu
 
 
