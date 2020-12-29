@@ -2,7 +2,7 @@
 
 ## **About the project**
 
-Python programs designed for controling multiple instruments to automatically measure the temperature of semiconductor material using optical approaches. This repository includes two appraoches for materials with different optical properties. Both appraoches have high spatical resolution (sub um) and high temperature sensitivity (sub K). Control programs and python libraries for instruments are included. Measurement setting can be found and change in "config.py"
+Python scripts for controling multiple instruments to automatically measure the temperature of semiconductor material using optical approaches. This repository includes two appraoches for materials with different optical properties. Both appraoches have high spatical resolution (sub um) and high temperature sensitivity (sub K). Control programs and python libraries for instruments are included. Measurement setting can be found and change in "config.py"
 
 ### 1. Pump-probe luminescence thermometry ("PPLT.py"):
 
