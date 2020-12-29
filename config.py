@@ -1,10 +1,10 @@
 #Settings for up-conversion thermometry
 setting_dict_upconversion = {
     #Instrument connection setting
-    "chromex_port": 1  #spectrometer port number
-    "filter_wheel": 2  #filter wheel port number
-    "shutter_port": 3  #shutter port number
-    "shutter_line": 1  #shutter line number 
+    "chromex_port": 1,  #spectrometer port number
+    "filter_wheel": 2,  #filter wheel port number
+    "shutter_port": 3,  #shutter port number
+    "shutter_line": 1,  #shutter line number 
 
     #Measuremnt setting
     "wlen_start":450,  #start wavelength of spectrum
@@ -18,14 +18,14 @@ setting_dict_upconversion = {
     "exposure_time2":0.3,   #exposure time of CCD camera for ASPL (s)
     "row_center":258,  #vertial position of emission spot in CCD camera iamge 
     "row_height":11,   #emission spot height in CCD camera iamge
-    "dspl" = True,     #show PL/ASPL spectra during measurement     
-    "save" = True,     #save data
+    "dspl" : True,     #show PL/ASPL spectra during measurement     
+    "save" : True,     #save data
     } 
 
 #Settings for PPLT
-setting_dict_upconversion = {
+setting_dict_PPLT = {
     #Instrument connection setting
-    "chromex_port": 1  #spectrometer port number 
+    "chromex_port": 1,  #spectrometer port number 
 
     #Measuremnt setting
     "wlen_start":450,   #start wavelength of spectrum
@@ -37,6 +37,6 @@ setting_dict_upconversion = {
     "exposure_time": 0.3,  #exposure time of CCD camera (s)
     "row_center":258,  #vertial position of emission spot in CCD camera iamge
     "row_height":11,   #emission spot height in CCD camera iamge
-    "dspl" = True,     #show PL/ASPL spectra during measurement     
-    "save" = True,     #save data
+    "dspl" : True,     #show PL/ASPL spectra during measurement     
+    "save" : True,     #save data
     } 

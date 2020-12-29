@@ -26,7 +26,7 @@ import pyqtgraph as pg
 import numpy as np
 from datetime import datetime as dt
 import matplotlib.pyplot as plt
-from config import setting_dict_upconversion
+from config import setting_dict_upconversion as setting_dict
 
 class Stokes_AS():
     ###Connect instruments

@@ -17,10 +17,11 @@ from Lib import acton
 from Lib import fianium
 from Lib import andor_camera
 from PyQt4 import QtCore, QtGui
-import pyqtgraph andor_ixonas pg
+import pyqtgraph as pg
 import numpy as np
 from datetime import datetime as dt
 import matplotlib.pyplot as plt
+from config import setting_dict_PPLT as setting_dict
 
 class PPLT():
     def __init__(self,setting_dict,dspl):
